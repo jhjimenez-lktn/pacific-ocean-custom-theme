@@ -1,0 +1,48 @@
+{
+	"name": "pacific-ocean",
+	"displayName": "%displayName%",
+	"description": "%description%",
+	"version": "1.0.1",
+	"author": {
+		"name": "Kyrylo Orlovskyi",
+		"url": "https://www.linkedin.com/in/kirill-orlovsky-55049a1a5/"
+	},
+	"publisher": "KirOrlovskyi",
+	"license": "MIT",
+	"icon": "icon.png",
+	"engines": {
+		"vscode": "^1.68.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"Pacific Ocean",
+		"dark",
+		"black",
+		"theme"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/V1codin/pacific-ocean"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Pacific Ocean",
+				"uiTheme": "vs-dark",
+				"path": "./themes/pacific-ocean.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "3dd81989-7397-4cf2-8ad5-9e8855ebf68c",
+		"publisherId": "c8642e12-34ae-4f25-8978-363d98c70646",
+		"publisherDisplayName": "Kir Orlovskyi",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1678642629345
+	}
+}
